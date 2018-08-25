@@ -13,8 +13,8 @@ Edit config.py. Add reddit app keys, your user login and which subreddits to str
 
 Open terminal/prompt and cd into the resbot directory.
 
-  cd path/to/resbot
-  python3 run.py
+    cd path/to/resbot
+    python3 run.py
 
 ### Kill it
 
