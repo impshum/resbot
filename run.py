@@ -1,6 +1,5 @@
 import praw
 import time
-from random import choice
 from urllib.request import urlopen
 from PIL import ImageFile
 import re
